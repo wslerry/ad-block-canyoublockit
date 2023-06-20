@@ -8,8 +8,6 @@ cdn.pncloudfl.com
 defenceblake.com
 deploy.mopinion.com
 enlightencentury.com
-fonts.googleapis.com
-fonts.gstatic.com
 forlumineoner.com
 godpvqnszo.com
 limurol.com
@@ -98,7 +96,6 @@ lm.serving-sys.com
 login.microsoftonline.com
 m.media-amazon.com
 match.360yield.com
-mysains.sains.com.my
 mytools.management
 pagead2.googlesyndication.com
 play.google.com
@@ -143,3 +140,14 @@ progamerage.com
 profitablegatetocontent.com
 wsecurely.com
 financeritual.com
+abservinean.com
+analytics.google.com
+cacheorcheck.mopinion.com
+cdn.bannersnack.com
+cdn.fluidplayer.com
+cdn.iubenda.com
+collect.mopinion.com
+deploy.mopinion.com
+sqs.us-east-1.amazonaws.com
+stats.bannersnack.com
+steadfastsystem.com
