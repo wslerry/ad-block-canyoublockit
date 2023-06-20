@@ -20,8 +20,8 @@ rxeosevsso.com
 stagepopkek.com
 warfarerewrite.com
 www.effectivecreativeformat.com
-www.google-analytics.com
-www.googletagmanager.com
+google-analytics.com
+googletagmanager.com
 abservinean.com
 cacheorcheck.mopinion.com
 cdn.bannersnack.com
@@ -53,8 +53,6 @@ c.amazon-adsystem.com
 c.msn.com
 c1.adform.net
 cacheorcheck.mopinion.com
-camo.githubusercontent.com
-canyoublockit.com
 cdn.bannersnack.com
 cdn.fluidplayer.com
 cdn.iubenda.com
@@ -73,9 +71,6 @@ external-preview.redd.it
 f.vimeocdn.com
 fls-na.amazon-adsystem.com
 fls-na.amazon.com
-fonts.googleapis.com
-fonts.gstatic.com
-fonts.mopinion.com
 gateway.reddit.com
 github.githubassets.com
 googleads.g.doubleclick.net
@@ -98,8 +93,6 @@ m.media-amazon.com
 match.360yield.com
 mytools.management
 pagead2.googlesyndication.com
-play.google.com
-player.vimeo.com
 public-prod-dspcookiematching.dmxleo.com
 r.bing.com
 rr1---sn-uh-nuhe.googlevideo.com
@@ -129,9 +122,9 @@ ups.analytics.yahoo.com
 us-u.openx.net
 v.clarity.ms
 w3-reporting.reddit.com
-www.clarity.ms
-www.googletagmanager.com
-www.gstatic.com
+clarity.ms
+googletagmanager.com
+gstatic.com
 x.bidswitch.net
 yt3.ggpht.com
 z-na.amazon-adsystem.com
@@ -152,9 +145,7 @@ sqs.us-east-1.amazonaws.com
 stats.bannersnack.com
 steadfastsystem.com
 analytics.google.com
-canyoublockit.com
 ezsbhlpchu.com
-fonts.googleapis.com
 forlumineoner.com
 godpvqnszo.com
 kgfjrb711.com
