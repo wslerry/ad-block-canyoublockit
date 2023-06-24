@@ -144,7 +144,6 @@ ssp.behave.com
 ssum.casalemedia.com
 stat.flashtalking.com
 static.criteo.net
-static1.makeuseofimages.com
 stats.g.doubleclick.net
 sync.intentiq.com
 tlx.3lift.com
