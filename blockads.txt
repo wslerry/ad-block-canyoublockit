@@ -399,3 +399,8 @@ anycodings.com
 lightrun.com
 overcoder.net
 exchangetuts.com
+cdn.iubenda.com
+cdn.pncloudfl.com
+trck.wargaming.net
+join.worldoftanks.asia
+lms-static.wgcdn.co
