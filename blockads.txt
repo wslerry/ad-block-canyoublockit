@@ -447,3 +447,4 @@ cdn.izooto.com
 cdn.jsdelivr.net
 cdn.prod.uidapi.com
 securepubads.g.doubleclick.net
+deo.shopeemobile.com
