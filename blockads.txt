@@ -162,9 +162,7 @@ cdn.bncloudfl.com
 cdn.fluidplayer.com
 cdn.iubenda.com
 collect.mopinion.com
-dem.shopee.com
 densityprideincentive.com
-deo.shopeemobile.com
 deploy.mopinion.com
 ezsbhlpchu.com
 foughtcirculation.com
