@@ -447,7 +447,6 @@ cdn.izooto.com
 cdn.jsdelivr.net
 cdn.prod.uidapi.com
 securepubads.g.doubleclick.net
-deo.shopeemobile.com
 40fb5634f6ac67a1e7e8fb8a5d9f8262.safeframe.googlesyndication.com
 684d0d48.akstat.io
 aax-fe-sin.amazon-adsystem.com
