@@ -514,3 +514,17 @@ uk-script.dotmetrics.net
 www.wootag.com
 x.bidswitch.net
 z.moatads.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+ads-api.twitter.com
+ads.pinterest.com
+adtech.yahooinc.com
+advertising.apple.com
+analytics.google.com
+click.googleanalytics.com
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
