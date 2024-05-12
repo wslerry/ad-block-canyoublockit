@@ -475,7 +475,6 @@ eb2.3lift.com
 eus.rubiconproject.com
 events.bouncex.net
 fastlane.rubiconproject.com
-fonts.gstatic.com
 fundingchoicesmessages.google.com
 fw.adsafeprotected.com
 googleads.g.doubleclick.net
