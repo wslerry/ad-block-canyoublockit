@@ -258,7 +258,6 @@ sync.search.spotxchange.com
 static-cdn.spot.im
 static.adsafeprotected.com
 static.chartbeat.com
-static.cloudflareinsights.com
 static.criteo.net
 static.vidazoo.com
 stats.bannersnack.com
@@ -462,7 +461,6 @@ cdn.fcp.codes
 cdn.id5-sync.com
 cdn.indexww.com
 cdn.wootag.com
-cdnjs.cloudflare.com
 cm.g.doubleclick.net
 config.aps.amazon-adsystem.com
 contextual-analytics.wunderkind.co
