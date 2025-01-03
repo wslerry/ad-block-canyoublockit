@@ -215,7 +215,6 @@ itscenter.alipay.com
 laz-g-cdn.alicdn.com
 lzd-img-global.slatic.net
 metriumoldeb.com
-my.lazada.com.my
 pupspu.com
 px-intl.ucweb.com
 sg.mmstat.com
