@@ -204,12 +204,10 @@ getsthis.com
 kgfjrb711.com
 metriumoldeb.com
 pupspu.com
-acs-m.lazada.com.my
 aeis.alicdn.com
 aeu.alicdn.com
 as.alipayobjects.com
 avhtaapxml.com
-c.lazada.com.my
 crazyads.fusetracking.com
 g.lazcdn.com
 getsthis.com
@@ -221,7 +219,6 @@ my.lazada.com.my
 pupspu.com
 px-intl.ucweb.com
 sg.mmstat.com
-sug.lazada.com.my
 tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
 wbilvnmool.com
 x.bidswitch.net
@@ -281,7 +278,6 @@ p.skimresources.com
 p2.fwpixel.com
 page.cdnbasket.net
 pagead2.googlesyndication.com
-pages.lazada.com.my
 people.api.boomtrain.com
 pix.spot.im
 pixel-sync.sitescout.com
